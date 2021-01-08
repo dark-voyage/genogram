@@ -21,7 +21,7 @@
   "author": "Genemator Sakhib <genemators@gmail.com> (https://genemator.me)",
   "license": "CC0-1.0",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "is-reachable": "^5.0.0",
     "node-cron": "^2.0.3",
